@@ -29,7 +29,7 @@ Special moments in life, lost polaroids, and family and friends pictures.
 
 ### Members
 
-- add friends.
+- Add friends.
 - Add Moments (with photo, location, name and description)
 - Add a comment for friends.
 - Share the moment with friends in the tag.
