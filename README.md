@@ -30,8 +30,7 @@ Special moments in life, lost polaroids, and family and friends pictures.
 ### Members
 
 - add friends.
-- take pictures.
-- Upload photos with the location where the photo was taken.
+- Add Moments (with photo, location, name and description)
 - Add a comment for friends.
 - Share the moment with friends in the tag.
 - Add moments in a custom gallery in the name of the moment.
