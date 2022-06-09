@@ -3,7 +3,7 @@
 
 ## Idea:
 How many unique polaroids have you lost? And how many have you saved? You can count them on your hand. 
-Imagine having a cloudy space with all your memories, where every special moment is saved. Your graduation day, firstborn, and vacations are all in one place. However, these memories are divided and organized based on the occasion. Think of it as your parents` bag of polaroids. But, you`ll never lose these memories for life. “Moments” will be the partner of your special moments, when you take pictures of an important occasion in your life or a beautiful memory that you would like to keep for life and at the same time share this moment with your beloved ones. At the end of the year, “Moments” will create an album with your most important moments for you to live your memories again.
+Imagine having a cloudy space with all your memories, where every special moment is saved. Your graduation day, firstborn, and vacations are all in one place. However, these memories are divided and organized based on the occasion. Think of it as your parents bag of polaroids. But, you`ll never lose these memories for life. “Moments” will be the partner of your special moments, when you take pictures of an important occasion in your life or a beautiful memory that you would like to keep for life and at the same time share this moment with your beloved ones. At the end of the year, “Moments” will create an album with your most important moments for you to live your memories again.
 
 
 ## Inspiration:
